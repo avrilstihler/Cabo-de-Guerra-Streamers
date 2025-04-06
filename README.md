@@ -2,6 +2,8 @@
 
 Essa aplicação JavaScript é um mini-jogo interativo onde você forma um time com 3 personagens personalizados para enfrentar um grupo aleatório dos "colegas" da internet em uma disputa de força no Cabo de Guerra.
 
+![Tela Inicial](images/tela.png)
+
 ## 🎮 Como funciona
 
 A função `jogar()` executa a lógica principal do jogo. Aqui está um resumo das etapas:
@@ -36,11 +38,7 @@ A função `jogar()` executa a lógica principal do jogo. Aqui está um resumo d
 
 ##  📸 Galeria de Imagens 
 
-Abaixo está uma tabela com os prints do aplicativo, organizados por etapa:
-
-| 🏠 Tela Inicial 
-|---|
-| ![Tela Inicial](images/tela_inicial.png) | 
+Abaixo está um exemplo de uma rodada jogada:
 
 | 🔴 Time dos Jogadores | 🔵 Time dos Colegas |
 |---|---|
