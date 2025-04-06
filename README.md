@@ -34,29 +34,23 @@ A função `jogar()` executa a lógica principal do jogo. Aqui está um resumo d
 - O time com maior força total vence.
 - O mais forte e o azarado de cada time recebem destaque na história.
 
-## ✨ Exemplos de Colegas
+##  📸 Galeria de Imagens 
 
-- **Alanzoka**: *Aquele streamer lá que fuma cigarro 🚬*
-  
-  `"Nextage né, bebê?"`
+Abaixo está uma tabela com os prints do aplicativo, organizados por etapa:
 
-- **Mount**: *Famoso por usar da verdinha 🌿🍃*
-  
-  `"Eu não fumo maconha!! Só de vez em quando..."` 
+| 🏠 Tela Inicial 
+|---|
+| ![Tela Inicial](images/tela_inicial.png) | 
 
-- **Cap**: *Fundador do Primeiro Comando do Bong 🚬*
-  
-  `"Cadê o bong, seus imbecis?!"`
+| 🔴 Time dos Jogadores | 🔵 Time dos Colegas |
+|---|---|
+| ![Time Jogadores](images/jogadores.png) | ![Time Colegas](images/colegas.png) |
 
-- **Mr. Fall**: *Autoproclamado CEO of Sex 😎🔥*
-  
-  `"Vem... Vem Pro Meu Mercado."` 
+|  ⚔️ Batalha Acontecendo |🏆 Resultado Final
+|---|---|
+| ![Batalha Acontecendo](images/batalha.png) | ![Resultado Final](images/resultado.png) |
 
-- **Cellbit**: *O mestre do RPG e dos enigmas 🧩📖*
-  
-  `"Enigma do medo."`  
-
-## 🧠 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - **JavaScript, Html e CSS**
 - Funções nativas do navegador:
@@ -65,6 +59,3 @@ A função `jogar()` executa a lógica principal do jogo. Aqui está um resumo d
 - **Regex** simples para validação de nomes
 - **Math.random()** para sorteio e geração da força
 
----
-
-🧪 Esse jogo é um ótimo exemplo de como usar lógica básica de JavaScript para criar interações divertidas com o usuário. Ideal para quem está aprendendo programação de forma leve e criativa!
