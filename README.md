@@ -4,6 +4,8 @@ Essa aplicação JavaScript é um mini-jogo interativo onde você forma um time 
 
 ![Tela Inicial](images/tela.png)
 
+Clique [aqui](https://avrilstihler.github.io/Cabo-de-Guerra-Streamers/) para acessar o game.
+
 ## 🎮 Como funciona
 
 A função `jogar()` executa a lógica principal do jogo. Aqui está um resumo das etapas:
