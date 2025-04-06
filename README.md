@@ -1,4 +1,4 @@
-# Batalha Épica: Jogadores vs. Colegas
+# Batalha Épica: Jogadores vs. Os Colegas
 
 Essa aplicação JavaScript é um mini-jogo interativo onde você forma um time com 3 personagens personalizados para enfrentar um grupo aleatório dos "colegas" da internet em uma disputa de força no Cabo de Guerra.
 
